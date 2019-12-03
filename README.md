@@ -1,3 +1,13 @@
+## GarageMan
+
+Algunos comandos:
+
+- `firebase deploy`: para subir el código a firebase hosting.
+- `npm run build`: para generar build productivo de la app react.
+- `serve -s build`: para ejecutar app react desde build productivo en caso de pruebas (antes debes instalar npm install -g serve).
+
+## Documentación generada automáticamente ..
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
